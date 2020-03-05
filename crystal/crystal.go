@@ -32,5 +32,6 @@ func main() {
 	fmt.Println("\n", ProphecyAstro)
 	ProphecyBejan := FromGaneshSpeaks(stringSign, stringDay)
 	fmt.Println("\n#From Ganeshaspeaks.com for:", stringSign)
-	fmt.Println("\n", ProphecyBejan, "\n")
+	fmt.Println("\n", ProphecyBejan)
+	fmt.Printf("\n")
 }
